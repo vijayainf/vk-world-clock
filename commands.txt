@@ -1,0 +1,18 @@
+# Run these commands in your terminal/command prompt
+# First, navigate to your project folder
+cd path/to/your/world-clock-project
+
+# Initialize git repository
+git init
+
+# Add your files
+git add index.html styles.css script.js
+
+# Commit your files
+git commit -m "Initial commit"
+
+# Add your GitHub repository as remote (replace USERNAME with your GitHub username)
+git remote add origin https://github.com/USERNAME/world-clock.git
+
+# Push your code
+git push -u origin main
