@@ -1,0 +1,10 @@
+world-clock/
+├── index.html
+├── styles.css
+├── script.js
+└── images/
+    ├── india.jpg
+    ├── usa.jpg
+    ├── malaysia.jpg
+    ├── thailand.jpg
+    └── russia.jpg
