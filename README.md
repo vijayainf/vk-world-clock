@@ -2,6 +2,8 @@
 
 A real-time world clock dashboard showing time across multiple countries with beautiful analog and digital displays.
 
+## Test Message for Git practice
+
 ## Features
 
 - Real-time updates
